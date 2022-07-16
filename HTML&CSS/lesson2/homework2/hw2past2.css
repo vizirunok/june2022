@@ -1,0 +1,33 @@
+.box {
+    width: 900px;
+    height: 500px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.frog {
+    width: 250px;
+    height: 300px;
+    box-sizing: border-box;
+    padding-top: 50px;
+    border: 1px solid black;
+    text-align: center;
+}
+.frog>p {
+    color: green;
+}
+.button {
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+}
+.button>a {
+    display: block;
+    width: 150px;
+    height: 50px;
+    background: rgb(142, 227, 227);
+    text-align: center;
+    line-height: 50px;
+    color: #fff;
+    text-decoration: none;
+}

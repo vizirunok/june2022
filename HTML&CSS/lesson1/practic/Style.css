@@ -1,0 +1,12 @@
+h1{
+background: orange;
+}
+a{
+    text-decoration: none;
+    color: black;
+    background: orange;
+    border: 1px solid;
+}
+body{
+    background: pink;
+}

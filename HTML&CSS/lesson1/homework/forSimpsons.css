@@ -1,0 +1,21 @@
+h1{
+    background: deepskyblue;
+    color: aqua;
+    text-align: center;
+}
+h2{
+    background: rgb(246, 252, 252);
+    color: orange;
+}
+p{
+    background: #218b66;
+    color: yellow;
+}
+ul{
+    background: #766d0f;
+    color: chartreuse;
+    font-size: 15px;
+}
+img{
+    width: 300px;
+}

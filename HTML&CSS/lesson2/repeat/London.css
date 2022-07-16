@@ -1,0 +1,44 @@
+.box {
+    width: 1000px;
+    height: 700px;
+    background: silver;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    row-gap: 15px;
+}
+.one {
+    width: 600px;
+    height: 200px;
+    background: mediumaquamarine;
+    color: white;
+    font-family: "Times New Roman", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.boxing {
+    width: 190px;
+    height: 200px;
+    background: deepskyblue;
+    font-family: "Times New Roman", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    ;
+}
+.two {
+    width: 600px;
+    display: flex;
+    justify-content: space-between;
+}
+.three {
+    width: 600px;
+    height: 200px;
+    background: mediumaquamarine;
+    color: white;
+    font-family: "Times New Roman", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
