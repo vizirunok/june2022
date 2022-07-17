@@ -1,0 +1,129 @@
+.box {
+    width: 100%;
+    height: 1600px;
+}
+.child1 {
+    width: 100%;
+    height: 750px;
+}
+.a {
+    width: 100%;
+    height: 250px;
+    background: silver;
+    border: 1px solid black;
+    border-radius: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.two {
+    width: 100%;
+    height: 500px;
+    display: flex;
+}
+.be {
+    width: 75%;
+    background: #218b66;
+    border: 1px solid black;
+    border-radius: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.c {
+    width: 25%;
+    background: skyblue;
+    border: 1px solid black;
+    border-radius: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+@media screen and (max-width: 1200px) {
+    .a {
+        height: 25%;
+    }
+    .two {
+
+        flex-direction: column;
+        height: 75%;
+    }
+    .be {
+        width: 100%;
+        height: 75%;
+    }
+    .c {
+        height: 25%;
+        width: 100%;
+    }
+
+}
+.child2 {
+    width: 100%;
+    height: 750px;
+    margin-top: 50px;
+}
+.a {
+    width: 100%;
+    height: 30%;
+    background: silver;
+    border: 1px solid black;
+    border-radius: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.all {
+    width: 100%;
+    height: 70%;
+    display: flex;
+}
+.circle {
+    width: 75%;
+    height: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.b {
+    width: 100%;
+    height: 50%;
+    background: aqua;
+    border: 1px solid black;
+    border-radius: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.and {
+    width: 33%;
+    height: 50%;
+    background: #218b66;
+    border: 1px solid black;
+    border-radius: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.f {
+    width: 25%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: yellowgreen;
+    border: 1px solid black;
+    border-radius: 25px;
+}
+@media screen and (max-width: 1200px) {
+    .all {
+        flex-direction: column;
+    }
+    .circle {
+        width: 100%;
+    }
+    .f {
+        width: 100%;
+    }
+}
+
