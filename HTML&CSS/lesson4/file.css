@@ -44,7 +44,6 @@
         height: 25%;
     }
     .two {
-
         flex-direction: column;
         height: 75%;
     }
@@ -124,6 +123,9 @@
     }
     .f {
         width: 100%;
+    }
+    .child2 {
+        margin-top: 100px;
     }
 }
 
