@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1a36950-0cb7-4dcd-a065-3dd684de1725" name="Changes" comment="add to git">
+      <change afterPath="$PROJECT_DIR$/HTML&amp;CSS/lesson4/hw1-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML&amp;CSS/lesson4/hw1-2st.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML&amp;CSS/lesson4/hw2-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML&amp;CSS/lesson4/hw2-2st.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML&amp;CSS/lesson4/file.css" beforeDir="false" afterPath="$PROJECT_DIR$/HTML&amp;CSS/lesson4/file.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML&amp;CSS/lesson4/file.css" beforeDir="false" afterPath="$PROJECT_DIR$/HTML&amp;CSS/lesson4/hw1st.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML&amp;CSS/lesson4/hw.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML&amp;CSS/lesson4/hw1.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,8 +18,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -24,6 +29,9 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2Bz6uvQRFpPn3HB7bQGDpLuWg16" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -42,7 +50,7 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/Andrew/IdeaProjects/june2022&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.import&quot;
   }
 }</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -58,7 +66,11 @@
       <workItem from="1657898607964" duration="82000" />
       <workItem from="1657968069986" duration="279000" />
       <workItem from="1657971924718" duration="749000" />
-      <workItem from="1658041834130" duration="11360000" />
+      <workItem from="1658041834130" duration="19956000" />
+      <workItem from="1658078688316" duration="5004000" />
+      <workItem from="1658086504546" duration="9230000" />
+      <workItem from="1658213425224" duration="3361000" />
+      <workItem from="1658251965949" duration="10630000" />
     </task>
     <task id="LOCAL-00001" summary="add to git">
       <created>1657896923498</created>
@@ -116,7 +128,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658055156989</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="add to git">
+      <created>1658056156071</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1658056156071</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
